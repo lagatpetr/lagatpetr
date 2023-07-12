@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lagatpetr
-- 👀 I’m interested in Robotics 
+- 👀 I’m interested in Robotics web dev mobile dev 
 - 🌱 I’m currently learning web development backend 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me any platform @lagatpetr
